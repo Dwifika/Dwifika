@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on to work in the fields of telecommunications, manufacturing, FMCG, BUMN, Beauty Brands, Startup Industry, and Mining Industry.
 - 📫 How to reach me dwirofikah98@gmail.com
 
-<!---
-Dwifika/Dwifika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me:
+linkedin.com/in/dwi-rofikah/
+
+My Tech Stacks:
+SQL Power BI Tableau
