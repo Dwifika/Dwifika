@@ -6,7 +6,7 @@
 - 📫 How to reach me dwirofikah98@gmail.com
 
 Connect with me:
-linkedin.com/in/dwi-rofikah/
+[[linkedi(https://www.linkedin.com/in/dwi-rofikah/)](https://www.linkedin.com/in/dwi-rofikah/)
 
 My Tech Stacks:
-SQL Power BI Tableau
+SQL, Power BI, Tableau
